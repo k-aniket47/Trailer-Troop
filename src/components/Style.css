@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.app {
+    /* background-color: #39445a; */
+    color: white;
+    background-image: radial-gradient(circle, #dd3594, #ce209d, #bb0aa9, #a102b5, #7f10c1, #6a3ed9, #4b5aee, #0071ff, #009eff, #00c1ff, #00e0ff, #5ffbf1);
+   
+    padding-bottom: 70px;
+  }
+.logo{
+    display: flex;
+    justify-content: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    background-image: linear-gradient(to left bottom, #290814, #2e081d, #320927, #330c34, #2f1242, #251a49, #18204f, #002653, #002a4c, #002b3f, #002b31, #0d2927);
+}
+#logo_img{
+    height:26px;
+    width: 32px;
+}
+.header{
+    font-size: 20px;
+    color:white;
+    display: flex;
+    justify-content: left;
+    
+}
+.pageTitle {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2vw;
+    padding: 10px;
+    color: white;
+  }
